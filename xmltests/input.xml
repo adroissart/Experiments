@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<transaction>
+  <mkeytop topattr="titi">
+    <mkeymiddle middleattr="toto">
+        <mkeyleaf leafattr="tata" modifid="0">
+            <evolution effectiveDate="2016-12-12">
+                <data>
+                    some data
+                </data>
+            </evolution>
+        </mkeyleaf>
+        <mkeyleaf leafattr="tata" modifid="0">
+            <evolution effectiveDate="2016-12-12">
+                <data>
+                    some data
+                </data>
+            </evolution>
+        </mkeyleaf>
+    </mkeymiddle>
+    <mkeymiddle middleattr="toto">
+        <mkeyleaf leafattr="tata" modifid="0">
+            <evolution effectiveDate="2016-12-12">
+                <data>
+                    some data
+                </data>
+            </evolution>
+        </mkeyleaf>
+    </mkeymiddle>
+</mkeytop>
+</transaction>
